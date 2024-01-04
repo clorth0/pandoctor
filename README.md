@@ -1,4 +1,7 @@
-# pandoctor
+# Pandoctor
+
+![Pandoctor Logo](https://github.com/clorth0/pandoctor/blob/main/logo.png?raw=true)
+
 Creating professional documentation using Markdown, Pandoc, and LaTex
 
 ## Introduction
