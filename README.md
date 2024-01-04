@@ -29,8 +29,7 @@ Pandoctor is a specialized tool designed to assist in the creation and managemen
 Contributions to Pandoctor are welcome. Please read our contributing guidelines before submitting your pull request.
 
 ## Support and Contact
-For support or to contact the developers, please email [support email] or create an issue in the GitHub repository.
+For support or to contact the developers, please email tech(at)odnd.com or create an issue in the GitHub repository.
 
 ## License
 Pandoctor is released under the MIT License. See the LICENSE file in the repository for full license text.
-
